@@ -151,6 +151,5 @@ int main() {
         string schedule = schedulefiforr(original_tasks);
         cout << endl << "Execution Order: " << schedule << endl << endl;
     }
-
     return 0;
 }
